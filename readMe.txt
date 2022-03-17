@@ -11,3 +11,5 @@ Used JsonPath to extract values from json.
 Created a TestRunner file under src/test/java/chromeOptions package.
 
 Created a stepDefinition and mapped all the scenarios with the methods defined in stepDefinition.
+
+Implemented a Base class and Global properties file to reuse the url and resources.
